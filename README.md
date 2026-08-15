@@ -4,4 +4,4 @@ da pasta routers veja as rotas que o aplicativo possui e coloque no thunderclien
 Não se esqueça de instalar todas as dependências e o ambiente de virtualização
 python -m venv venv
 .\venv\Scripts\Activate
-pip install Flask
+pip install flask flask-sqlalchemy
